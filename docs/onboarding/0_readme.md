@@ -1,6 +1,6 @@
 # What is CanopyMap?
 
-Two of the biggest pain points for agricultural tech and a barrier to automation si measuring plant growth and obtaining quality training data at a large scale. Farming environments can vary _a lot_ and the hardware that is used to monitor such environments can often be in very different conditions which makes adapting a single model to different environments very challenging.
+Two of the biggest pain points for agricultural tech and a barrier to automation is measuring plant growth and obtaining quality training data at a large scale. Farming environments can vary _a lot_ and the hardware that is used to monitor such environments can often be in very different conditions which makes adapting a single model to different environments very challenging.
 
 Lots of research papers cover outdoor farming, very few try to fix the gap in training data for indoor environments. That's what we're trying to fix with CanopyMap. We have access to an aeroponic farm with lots of cameras, we are going to use existing models to run image segmentation on the plants and using that try to measure the plant growth over time. This will eventually help the farm automate their growth optimization algorithm.
 
