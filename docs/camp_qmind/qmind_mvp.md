@@ -65,3 +65,6 @@ Our pitch will include:
 - Why are we even building a pipeline like this
 - How are we doing it
 - DEMO
+
+### AI usage
+Please read [AI_usage.md](./AI_usage.md)
