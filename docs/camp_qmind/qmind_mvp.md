@@ -29,7 +29,7 @@ We are going to try to run `SAM3` from facebook on a colab notebook and mess aro
 - SAM stands for *Segment Anything Model* which means you can throw anything at it.
 - SAM3 takes in a text prompt as an additional input which lets us prompt the model about what to segment. For example the text prompt can be "nose" and we give it a portrait, it will segment the portion of the image that is the nose and give it back to us.
 
-[sam meme](../assets/sam_meme.jpg)
+![sam meme](../assets/sam_meme.jpg)
 
 
 ### 3. Tracking
