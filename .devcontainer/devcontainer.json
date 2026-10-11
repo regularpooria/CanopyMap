@@ -7,6 +7,10 @@
     "ghcr.io/devcontainers/features/git:1": {}
   },
   "remoteUser": "vscode",
+  "runArgs": [
+    "--security-opt",
+    "label=disable"
+  ],
   "customizations": {
     "vscode": {
       "extensions": [
