@@ -10,13 +10,13 @@ dependencies = [
     "matplotlib>=3.9",
     "ipykernel>=6.29",
     "jupyterlab>=4.2",
+    "huggingface_hub==2.2.0",
+    "pillow==12.3.0",
+    "ipywidgets==8.1.9",
 ]
 
 [dependency-groups]
-dev = [
-    "pytest>=8.0",
-    "ruff>=0.8",
-]
+dev = ["pytest>=8.0", "ruff>=0.8"]
 
 [tool.uv]
 package = false
