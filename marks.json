@@ -1,0 +1,13 @@
+{
+  "dataset": "regularpooria/canopymap_plants",
+  "channel": "channel5",
+  "n_frames": 3163,
+  "planted_id": 16,
+  "stop_growth_id": 996,
+  "planted_frame": 16,
+  "planted_date": "2026-05-15",
+  "planted_time": "16:49:23",
+  "stop_growth_frame": 996,
+  "stop_growth_date": "2026-05-29",
+  "stop_growth_time": "09:04:06"
+}
