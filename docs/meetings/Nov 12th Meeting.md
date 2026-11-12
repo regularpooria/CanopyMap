@@ -31,7 +31,10 @@ We are now focusing on building an algorithm to track the plant growth based on 
 pip install digitalsreeni-image-annotator
 run with "./digitalsreeni-image-annotator"
 
-## Tasks (for everyone)
+## Tasks (for everyone, individually)
 
 1. Count the number of green-ish pixels in the segmented area
 2. Plot the different plants naively.
+
+REFERENCE:
+![reference_doodle_plot](../assets/nov12_plot_doodle.jpg)
