@@ -36,5 +36,7 @@ run with "./digitalsreeni-image-annotator"
 1. Count the number of green-ish pixels in the segmented area
 2. Plot the different plants naively.
 
+Here is also a [link to the plant video](https://youtu.be/8Iw1pmaXCQg)
+
 REFERENCE:
 ![reference_doodle_plot](../assets/nov12_plot_doodle.jpg)
